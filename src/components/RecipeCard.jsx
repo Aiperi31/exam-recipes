@@ -13,7 +13,7 @@ function RecipeCard() {
 
 <Link to={"/RecipeList"}> 
 <button type="button" class="text-white mt-6 bg-[#FF9119] hover:bg-[#FF9119]/80 focus:ring-4 focus:outline-none focus:ring-[#FF9119]/50 font-medium rounded-full text-sm px-5 py-2.5 text-center inline-flex items-center dark:hover:bg-[#FF9119]/80 dark:focus:ring-[#FF9119]/40 me-2 mb-2">
-Подробнее...
+Посмотреть все рецепты
 </button>
 </Link>
 </a>
@@ -35,9 +35,9 @@ function RecipeCard() {
   
 </div>
 <div class="flex items-center justify-around py-4 md:py-8 flex-wrap">
-    <button type="button" class="text-white hover:text-white border border-orange-600 bg-white hover:bg-orange-600  dark:bg-orange-500 focus:ring-4 focus:outline-none focus:ring-blue-500 rounded-full shadow text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:border-orange-500 dark:text-white-500 dark:hover:text-white dark:hover:bg-orange-500 dark:focus:ring-orange-800">Салаты</button>
-    <button type="button" class="text-gray-900 border border-white hover:border-gray-200 dark:border-orange-500 dark:bg-orange-500 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800">Завтраки</button>
-    <button type="button" class="text-gray-900 border border-white hover:border-gray-200  dark:border-orange-500 dark:bg-orange-500 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800">Супы</button> 
+    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Салаты</button>
+    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Завтраки</button>
+    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Супы</button> 
    
 
 </div>
@@ -59,9 +59,9 @@ function RecipeCard() {
 </div>
 
 <div class="flex items-center justify-around py-4 md:py-8 flex-wrap">
-    <button type="button" class="text-white hover:text-white border border-orange-600 bg-white hover:bg-orange-600 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:border-blue-500 dark:text-white-100 dark:hover:text-white dark:hover:bg-orange-500 dark:bg-orange-500 dark:focus:ring-orange-500">Десерты</button>
-    <button type="button" class="text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-orange-500 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800">Напитки</button>
-    <button type="button" class="text-gray-900 border border-white hover:border-gray-200 dark:border-gray-900 dark:bg-orange-500 dark:hover:border-gray-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 dark:text-white dark:focus:ring-gray-800">Выпечка</button>
+    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Десерты</button>
+    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Напитки</button>
+    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Выпечка</button>
     
 </div>
 
