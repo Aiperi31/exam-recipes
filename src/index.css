@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+.detail{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav{
+    position: sticky; top: 0;
+    backdrop-filter: blur(45px);
+}
