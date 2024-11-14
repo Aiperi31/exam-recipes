@@ -35,9 +35,9 @@ function RecipeCard() {
   
 </div>
 <div class="flex items-center justify-around py-4 md:py-8 flex-wrap">
-    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Салаты</button>
+    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-7 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Салаты</button>
     <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Завтраки</button>
-    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-5 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Супы</button> 
+    <button type="button" class="text-orange-800 border border-white hover:border-gray-200 dark:border-orange-500 dark:hover:border-orange-700 bg-white focus:ring-4 focus:outline-none focus:ring-gray-300 rounded-full text-base font-medium px-9 py-2.5 text-center me-3 mb-3 border-x-4  dark:text-black dark:focus:ring-gray-800">Супы</button> 
    
 
 </div>
